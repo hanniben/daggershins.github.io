@@ -25,7 +25,6 @@ header {
   border: 1px solid orange;
   display: inline-block;
   position: relative;
-  width: 5%;
   left: 450px;
   bottom: 20px;
 }
