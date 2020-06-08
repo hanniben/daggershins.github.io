@@ -1,0 +1,119 @@
+header {
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  margin-left: 50px;
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+#toggler {
+  margin-left: 50px;
+}
+
+#daggershinsLogo {
+  border: 1px solid green;
+  display: inline-block;
+  position: relative;
+  left: 100px;
+}
+
+#header-about {
+  border: 1px solid orange;
+  display: inline-block;
+  position: relative;
+  width: 5%;
+  left: 450px;
+  bottom: 20px;
+}
+
+#header-insta {
+  border: 1px solid blue;
+  display: inline-block;
+  position: relative;
+  left: 500px;
+  bottom: 20px;
+}
+
+#prev-arrow {
+  position: absolute;
+  left: 150px;
+  top: 525px;
+}
+
+#next-arrow {
+  position: absolute;
+  right: 150px;
+  top: 525px;
+}
+
+#index-previews {
+  text-align: center;
+}
+
+#index-ch1 {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#index-ch2 {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+#about-header {
+  display: block;
+  width: 5%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+#about-section {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 20px;
+  color:#00ffc3;
+}
+
+.about-content {
+  line-height: 1.5em;
+}
+
+#about-ds {
+  display: block;
+  width: 5%;
+  margin: auto;
+}
+
+#footer-copy {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color:#00ffc3;
+}
+
+#tobecontinued {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
